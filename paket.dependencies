@@ -109,6 +109,9 @@ github: dotnet/fsharp:e1f735546a907b0a511b818f10829b1d75139021 src/Compiler/Synt
 github: dotnet/fsharp:e1f735546a907b0a511b818f10829b1d75139021 src/Compiler/SyntaxTree/LexFilter.fsi
 github: dotnet/fsharp:e1f735546a907b0a511b818f10829b1d75139021 src/Compiler/SyntaxTree/LexFilter.fs
 
+# Custom branch of fsdocs
+github: nojaf/FSharp.Formatting:cherry
+
 group build
     storage: none
     source https://api.nuget.org/v3/index.json
